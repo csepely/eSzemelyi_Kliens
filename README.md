@@ -1,2 +1,2 @@
 # eSzemelyi_Kliens
-eSzemelyi client software package for Hungarian eSzig card.
+Archlinux PKGBUILD file, eSzemelyi client software package for Hungarian eSzig card.
